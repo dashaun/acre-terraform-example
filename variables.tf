@@ -10,7 +10,7 @@ variable "acre_resource_group" {
 
 variable "acre_deployment_mode" {
   type = string
-  default = "Complete"
+  default = "Incremental"
 }
 
 variable "acre_template_path" {
