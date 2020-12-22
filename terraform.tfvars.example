@@ -1,0 +1,7 @@
+subscription_id = "12345678-xxxx-1111-xxxx-1x1x1x1x1x1x"
+tenant_id = "12345678-xxxx-1111-xxxx-1x1x1x1x1x1x"
+location = "eastus2"
+
+acre_name = "deploymentname"
+acre_resource_group = "resource-group-name"
+acre_template_path = "./e10-uswest2.json.template"
